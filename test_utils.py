@@ -10,4 +10,5 @@ def test_roots():
     pass
 
 def test_integrate():
+    assert test_integrate(8,2) == 4
     pass
