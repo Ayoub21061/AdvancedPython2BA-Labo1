@@ -6,6 +6,7 @@ def test_fact():
     pass
 
 def test_roots():
+    assert test_roots(4, 3) == 1
     pass
 
 def test_integrate():
